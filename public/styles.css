@@ -1,0 +1,16 @@
+/* styles.css */
+
+body {
+    background-image: url('https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg'); /* Replace with actual image URL */
+    background-size: cover; /* Adjust the size to cover the whole page */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    background-attachment: fixed; /* Fix the background image in place */
+    color: #fff; /* Optional: Change text color to ensure readability */
+}
+
+.container {
+    margin-top: 300px; /* Optional: Adjust container positioning */
+}
+.text-center{
+    color: #fff;
+}
