@@ -36,7 +36,6 @@ This application allows users to book tickets for movies, trains, and buses. Use
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/ayuktha63/Movie-Train-Bus-Booking-application.git
-    cd Movie-Train-Bus-Booking-application
     ```
 
 2. **Install Dependencies**:
@@ -77,11 +76,7 @@ Use these credentials to log in to the admin dashboard and manage the data.
 
 ## Personal Note
 
-This project was originally developed by a friend, and I assisted in completing it. I have a passion for helping friends with coding and enjoy assisting others. I am somewhat familiar with the Flask framework in Python and have completed many projects in .NET, which are visible on my profile. This project presented a new challenge, and I am pleased to have successfully completed it with the help of ChatGPT.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was originally developed by a friend, and I assisted in completing it. I have a passion for helping friends with coding and enjoy assisting others. I am somewhat familiar with the Flask framework in Python and have completed many projects in Django which are visible on my profile. This project presented a new challenge, and I am pleased to have successfully completed it with the help of ChatGPT.
 
 ## Contributing
 
